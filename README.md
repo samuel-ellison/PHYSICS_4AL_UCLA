@@ -6,12 +6,12 @@ These Lab Reports are NOT to be reproduced in any way shape or form. The purpose
 
 | Experiment  | Score |
 | :--- | :---: |
-| Experiment 1  | 98/100  |
-| Experiment 2  | 98/100  |
-| Experiment 3  | 97/100  |
-| Experiment 4  | 83/100  |
-| Experiment 5  | 100/100  |
-| Experiment 6&7  | 97/100  |
+| Experiment 1  | 86/100  |
+| Experiment 2  | 85/100  |
+| Experiment 3  | 91/100  |
+| Experiment 4  | 87/100  |
+| Experiment 5  | 81/100  |
+| Experiment 6&7  | NA  |
 
 UCLA Physics 4AL Lab Manual (Found on UCLA Physics and Astronomy Page)
 
